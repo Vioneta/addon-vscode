@@ -14,10 +14,6 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-A VSCode experience, accessible through the browser.
-
-![Studio Code Server in the Vioneta Agro Frontend](images/screenshot.png)
-
 ## About
 
 This add-on runs [code-server](https://github.com/cdr/code-server), which
